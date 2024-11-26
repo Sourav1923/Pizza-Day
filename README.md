@@ -25,6 +25,7 @@
   <ul>
     <li><strong>HTML5:</strong> Semantic and structured layout.</li>
     <li><strong>CSS3:</strong> Custom styles and responsiveness.</li>
+    <li><strong>JavaScript:</strong> Building the logic.</li>
   </ul>
 
   <hr>
